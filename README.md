@@ -1,3 +1,4 @@
 # Udemy-courses
-Pytorch gradient for ANN
-Pytorch linear regression for ANN
+1.Pytorch basics
+2.Pytorch gradient for ANN
+3.Pytorch linear regression for ANN
