@@ -1,4 +1,9 @@
 # Udemy-courses
+A. PYTORCH
+B. PYTHON
+C. NUMPY,PANDAS
+D. OPENCV
+
 
 1.Pytorch basics
 2.Pytorch gradient for ANN
