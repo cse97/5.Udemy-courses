@@ -11,3 +11,5 @@ D. OPENCV
 4.Pytorch dataset handling for ANN
 5.Basic Pytorch ANN
 6.Pytorch full ANN (Regression,Classification)
+7.RNN_LSTM_SineWave 
+8.RNN_LSTM_TimeSeriesData
